@@ -61,6 +61,7 @@ To know how many results have to be display / page.
 =cut
 
 use strict;
+#use warnings; FIXME - Bug 2505
 use CGI;
 use C4::Auth;
 use C4::Output;

@@ -18,7 +18,7 @@
 # Suite 330, Boston, MA  02111-1307 USA
 
 use strict;
-# use warnings;  # FIXME
+#use warnings; FIXME - Bug 2505
 use CGI;
 use Text::CSV;
 use C4::Reports::Guided;
